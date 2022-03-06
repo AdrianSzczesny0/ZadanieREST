@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6d8beed-4044-42bd-a379-85b679d1cbd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25w5R8fpTPvNhaETexQ9VjheL9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tests" />
+      <recent name="Api" />
+      <recent name="Utility" />
+      <recent name="Base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GameTests.verify_POST_games_update_successfull (1)">
+    <configuration name="GameTests.postGametest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GameTests" />
+      <option name="METHOD_NAME" value="postGametest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.putGametest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GameTests" />
+      <option name="METHOD_NAME" value="putGametest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.putGametest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GameTests" />
+      <option name="METHOD_NAME" value="putGametest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.verify_POST_games_update_successfull (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GameTests" />
+      <option name="METHOD_NAME" value="verify_POST_games_update_successfull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTests.verify_POST_games_update_successfull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GameTests" />
+      <option name="METHOD_NAME" value="verify_POST_games_update_successfull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GameTests.verify_POST_games_update_successfull (1)" />
+        <item itemvalue="TestNG.GameTests.verify_POST_games_update_successfull" />
+        <item itemvalue="TestNG.GameTests.putGametest (1)" />
+        <item itemvalue="TestNG.GameTests.putGametest" />
+        <item itemvalue="TestNG.GameTests.postGametest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d8beed-4044-42bd-a379-85b679d1cbd5" name="Default Changelist" comment="" />
+      <created>1646425296609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646425296609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1646425652888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1646425652888" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1646425650295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1646425650295" />
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1646603595228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646603595228" />
+    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1646603595228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646603595228" />
+    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1646603595228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646603595228" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1646603595228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646603595228" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1646598653839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646598653839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1646598653839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1646598653839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1646598653839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1646598653839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1646598653839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1646598653839" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1646425699749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1646425699749" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1646430026222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1646430026222" />
+  </component>
+</project>
